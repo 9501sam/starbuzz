@@ -1,4 +1,6 @@
-package starbuzz;
+package starbuzz.beverage;
+
+import starbuzz.Beverage;
 
 public class Espresso extends Beverage {
   public String getDescription() {

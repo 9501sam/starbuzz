@@ -1,4 +1,6 @@
-package starbuzz;
+package starbuzz.beverage;
+
+import starbuzz.Beverage;
 
 public class DarkRoast extends Beverage {
   public String getDescription() {

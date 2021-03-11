@@ -1,4 +1,7 @@
-package starbuzz;
+package starbuzz.condimentdecorator;
+
+import starbuzz.Beverage;
+import starbuzz.CondimentDecorator;
 
 public class Mocha extends CondimentDecorator {
   Beverage beverage;
